@@ -61,7 +61,7 @@
     "cross-env": "^7.0.3",
     "graphql": "^16.11.0",
     "graphql-ws": "^6.0.5",
-    "humanize-duration": "^3.33.2",
+    "humanize-duration": "^3.35.0",
     "isomorphic-unfetch": "^4.0.2",
     "js-yaml": "^4.1.1",
     "lodash": "^4.17.23",
