@@ -60,7 +60,7 @@
     "billboard.js": "^3.17.2",
     "cross-env": "^7.0.3",
     "graphql": "^16.11.0",
-    "graphql-ws": "^6.0.5",
+    "graphql-ws": "^6.2.1",
     "humanize-duration": "^3.33.2",
     "isomorphic-unfetch": "^4.0.2",
     "js-yaml": "^4.1.1",
