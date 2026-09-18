@@ -25,7 +25,7 @@ require (
 	github.com/docker/cli v28.5.1+incompatible
 	github.com/docker/compose/v2 v2.40.3
 	github.com/docker/docker v28.5.2+incompatible
-	github.com/docker/go-connections v0.6.0
+	github.com/docker/go-connections v0.8.1
 	github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203
 	github.com/envoyproxy/go-control-plane/envoy v1.35.0
 	github.com/fatih/color v1.18.0
